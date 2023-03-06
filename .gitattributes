@@ -1,2 +1,0 @@
-. filter=lfs diff=lfs merge=lfs -text
-SBOL_14.3.0_@ttskarl.ipa filter=lfs diff=lfs merge=lfs -text
